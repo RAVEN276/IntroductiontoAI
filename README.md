@@ -1,13 +1,23 @@
-# AI Praktikum 1
+# Introduction to AI - Repository Praktikum
 
 ## Deskripsi
-Repository ini berisi notebook untuk praktikum pertama mata kuliah Introduction to AI. Notebook ini mendemonstrasikan implementasi dasar machine learning menggunakan Python untuk klasifikasi angka tulisan tangan.
+Repository ini berisi materi dan praktikum untuk mata kuliah Introduction to Artificial Intelligence. Repository mencakup teori dasar AI dan implementasi praktis machine learning menggunakan Python.
 
 ## Informasi Mahasiswa
 - **Nama**: Mochammad Lintar Arya Dwiputra
 - **NIM**: 2024081032
 
-## Konten Praktikum
+## Struktur Repository
+
+### 📁 Tugas1/
+Berisi materi pemahaman dasar tentang Artificial Intelligence:
+- **Pemahaman Dasar Artificial Intelligence.pdf** - Dokumen yang menjelaskan konsep fundamental AI, sejarah, dan aplikasinya
+
+### 📁 AIPraktikum1/
+Berisi notebook praktikum pertama dengan implementasi machine learning:
+- **AI_Praktikum1.ipynb** - Notebook Jupyter untuk klasifikasi angka tulisan tangan
+
+## Konten AI Praktikum 1
 
 ### 1. Import Library
 Notebook menggunakan library-library berikut:
@@ -33,15 +43,18 @@ Melakukan prediksi pada 10 data pertama dan membandingkan dengan label asli untu
 
 ## Cara Menjalankan
 
+### Untuk Notebook (AIPraktikum1):
+
 1. Pastikan Python sudah terinstall (disarankan Python 3.8+)
 
 2. Install dependencies:
 ```bash
-pip install numpy pandas matplotlib scikit-learn
+pip install numpy pandas matplotlib scikit-learn jupyter
 ```
 
 3. Buka notebook menggunakan Jupyter Notebook atau VS Code:
 ```bash
+cd AIPraktikum1
 jupyter notebook AI_Praktikum1.ipynb
 ```
 
@@ -53,8 +66,10 @@ jupyter notebook AI_Praktikum1.ipynb
 - pandas
 - matplotlib
 - scikit-learn
+- jupyter
 
 ## Topik yang Dipelajari
+- Pemahaman dasar Artificial Intelligence
 - Machine Learning dasar
 - Klasifikasi dengan Logistic Regression
 - Preprocessing data
