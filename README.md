@@ -2,7 +2,7 @@
 
 ## Ringkasan
 
-Repository ini merupakan tempat pengumpulan semua tugas dan praktikum untuk mata kuliah **Introduction to Artificial Intelligence**. Berisi dokumentasi lengkap semua penyelesaian tugas dengan implementasi menggunakan Python dan Jupyter Notebook.
+Repository ini merupakan tempat pengumpulan semua tugas dan praktikum untuk mata kuliah **Introduction to Artificial Intelligence**. Isinya berupa implementasi Python dan Jupyter Notebook beserta dokumentasinya.
 
 ---
 
@@ -22,38 +22,38 @@ Repository ini merupakan tempat pengumpulan semua tugas dan praktikum untuk mata
 
 ```
 IntroductiontoAI/
-├── README.md                          # Dokumentasi proyek
-├── Tugas1/                            # Tugas pemahaman dasar AI
-├── Tugas2/                            # Tugas praktikum lanjutan
+├── README.md
+├── Tugas1/
+├── Tugas2/
 ├── AIPraktikum1/
-│   └── AI_Praktikum1.ipynb           # Notebook praktikum 1: Klasifikasi Logistic Regression
+│   └── AI_Praktikum1.ipynb
 └── AIPraktikum2/
-    └── AI_Pertemuan2.ipynb           # Notebook praktikum 2: Pertemuan kedua
+    └── AI_Pertemuan2.ipynb
 ```
 
 ---
 
-## Daftar Tugas & Praktikum
+## Daftar Tugas dan Praktikum
 
-### 📚 Tugas1 - Dasar-dasar Artificial Intelligence
+### Tugas1 - Dasar-dasar Artificial Intelligence
 **Lokasi**: [Tugas1/](Tugas1/)
 
-**Deskripsi**: Pengumpulan tugas pertama seputar konsep dasar Artificial Intelligence
+**Deskripsi**: Pengumpulan tugas pertama seputar konsep dasar Artificial Intelligence.
 
-### 🔬 AIPraktikum1 - Klasifikasi Digit dengan Logistic Regression
+### AIPraktikum1 - Klasifikasi Digit dengan Logistic Regression
 **File**: [AIPraktikum1/AI_Praktikum1.ipynb](AIPraktikum1/AI_Praktikum1.ipynb)
 
-**Deskripsi**: Implementasi algoritma Logistic Regression untuk klasifikasi digit tulisan tangan menggunakan dataset MNIST dari scikit-learn.
+**Deskripsi**: Implementasi Logistic Regression untuk klasifikasi digit tulisan tangan menggunakan dataset MNIST dari scikit-learn.
 
-### 🧠 AIPraktikum2 - Pertemuan Kedua
+### AIPraktikum2 - Pertemuan Kedua
 **File**: [AIPraktikum2/AI_Pertemuan2.ipynb](AIPraktikum2/AI_Pertemuan2.ipynb)
 
 **Deskripsi**: Praktikum lanjutan topik machine learning dengan teknik advanced model selection dan hyperparameter tuning.
 
-### 📋 Tugas2 - Praktikum Lanjutan
+### Tugas2 - Praktikum Lanjutan
 **Lokasi**: [Tugas2/](Tugas2/)
 
-**Deskripsi**: Pengumpulan tugas praktikum lanjutan menggunakan machine learning pada dataset dunia nyata
+**Deskripsi**: Pengumpulan tugas praktikum lanjutan menggunakan machine learning pada dataset dunia nyata.
 
 ---
 
@@ -64,23 +64,19 @@ IntroductiontoAI/
 
 ---
 
-## Panduan Setup & Menjalankan
+## Setup dan Menjalankan
 
-**Persyaratan**:
-- Python 3.8+
-- pip (Package manager)
-
-**Install Dependencies**:
+**Install dependencies**:
 ```bash
 pip install numpy pandas matplotlib scikit-learn jupyter
 ```
 
-**Jalankan Notebook**:
+**Jalankan notebook**:
 ```bash
 # Menggunakan Jupyter
 jupyter notebook AIPraktikum1/AI_Praktikum1.ipynb
 
-# atau menggunakan VS Code
+# Atau gunakan VS Code
 code .
 ```
 
@@ -88,9 +84,9 @@ code .
 
 ## Informasi Pengumpulan
 
-- Semua tugas dan praktikum tersimpan dalam folder masing-masing
-- Setiap notebook sudah lengkap dengan output hasil eksekusi
-- Siap untuk dievaluasi oleh dosen
+- Semua tugas dan praktikum tersimpan dalam folder masing-masing.
+- Setiap notebook sudah dilengkapi output eksekusi.
+- Siap untuk dievaluasi oleh dosen.
 
 ---
 
@@ -104,9 +100,8 @@ code .
 
 ## Catatan
 
-- Repository ini merupakan pengumpulan semua tugas dan praktikum mata kuliah Introduction to AI
-- Semua file sudah lengkap dan siap untuk dievaluasi
-- Untuk menjalankan notebook, pastikan semua dependencies sudah terinstall
+- Repository ini merupakan pengumpulan semua tugas dan praktikum mata kuliah Introduction to AI.
+- Untuk menjalankan notebook, pastikan semua dependencies sudah terinstal.
 
 ---
 
