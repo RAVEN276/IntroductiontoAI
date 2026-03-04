@@ -1,10 +1,9 @@
-# Introduction to Artificial Intelligence - Pengumpulan Tugas
+# Introduction to Artificial Intelligence - Pengumpulan Tugas & Praktikum
 
 ## Ringkasan
 
-Repository ini merupakan tempat pengumpulan semua tugas dan praktikum untuk mata kuliah **Introduction to Artificial Intelligence**. Isinya berupa implementasi Python dan Jupyter Notebook beserta dokumentasinya.
-
----
+Repository ini berisi kumpulan tugas dan praktikum untuk mata kuliah **Introduction to Artificial Intelligence**.
+Konten utama terdiri dari file tugas berbentuk PDF dan notebook praktikum berbentuk Jupyter Notebook.
 
 ## Informasi Penulis
 
@@ -16,99 +15,61 @@ Repository ini merupakan tempat pengumpulan semua tugas dan praktikum untuk mata
 | **Institusi** | Universitas Pembangunan Jaya |
 | **Tahun** | 2024/2025 |
 
----
-
 ## Struktur Direktori
 
 ```
 IntroductiontoAI/
 ├── README.md
-├── Tugas1/
-├── Tugas2/
 ├── AIPraktikum1/
 │   └── AI_Praktikum1.ipynb
-└── AIPraktikum2/
-    └── AI_Pertemuan2.ipynb
+├── AIPraktikum2/
+│   └── AI_Pertemuan2.ipynb
+├── Tugas1/
+│   └── Pemahaman Dasar Artificial Intelligence.pdf
+├── Tugas2/
+│   └── Tugas 2 Essay - Mochammad Lintar Arya Dwiputra_2024081032.pdf
+└── Tugas3/
+    └── Tugas 3 - Analisis ML Pipeline - Mochammad Lintar Arya Dwiputra_2024081032.pdf
 ```
 
----
+## Daftar Konten
 
-## Daftar Tugas dan Praktikum
+| Jenis | Lokasi | Keterangan |
+|------|--------|------------|
+| Praktikum 1 | [AIPraktikum1/AI_Praktikum1.ipynb](AIPraktikum1/AI_Praktikum1.ipynb) | Notebook praktikum pertemuan pertama. |
+| Praktikum 2 | [AIPraktikum2/AI_Pertemuan2.ipynb](AIPraktikum2/AI_Pertemuan2.ipynb) | Notebook praktikum pertemuan kedua. |
+| Tugas 1 | [Tugas1/Pemahaman Dasar Artificial Intelligence.pdf](Tugas1/Pemahaman%20Dasar%20Artificial%20Intelligence.pdf) | Tugas pemahaman dasar AI. |
+| Tugas 2 | [Tugas2/Tugas 2 Essay - Mochammad Lintar Arya Dwiputra_2024081032.pdf](Tugas2/Tugas%202%20Essay%20-%20Mochammad%20Lintar%20Arya%20Dwiputra_2024081032.pdf) | Tugas esai AI. |
+| Tugas 3 | [Tugas3/Tugas 3 - Analisis ML Pipeline - Mochammad Lintar Arya Dwiputra_2024081032.pdf](Tugas3/Tugas%203%20-%20Analisis%20ML%20Pipeline%20-%20Mochammad%20Lintar%20Arya%20Dwiputra_2024081032.pdf) | Tugas analisis machine learning pipeline. |
 
-### Tugas1 - Dasar-dasar Artificial Intelligence
-**Lokasi**: [Tugas1/](Tugas1/)
+## Persyaratan (untuk Notebook)
 
-**Deskripsi**: Pengumpulan tugas pertama seputar konsep dasar Artificial Intelligence.
+- Python 3.8 atau lebih baru
+- Paket Python: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `jupyter`
 
-### AIPraktikum1 - Klasifikasi Digit dengan Logistic Regression
-**File**: [AIPraktikum1/AI_Praktikum1.ipynb](AIPraktikum1/AI_Praktikum1.ipynb)
+## Cara Menjalankan Notebook
 
-**Deskripsi**: Implementasi Logistic Regression untuk klasifikasi digit tulisan tangan menggunakan dataset MNIST dari scikit-learn.
+Instal dependency:
 
-### AIPraktikum2 - Pertemuan Kedua
-**File**: [AIPraktikum2/AI_Pertemuan2.ipynb](AIPraktikum2/AI_Pertemuan2.ipynb)
-
-**Deskripsi**: Praktikum lanjutan topik machine learning dengan teknik advanced model selection dan hyperparameter tuning.
-
-### Tugas2 - Praktikum Lanjutan
-**Lokasi**: [Tugas2/](Tugas2/)
-
-**Deskripsi**: Pengumpulan tugas praktikum lanjutan menggunakan machine learning pada dataset dunia nyata.
-
----
-
-## Persyaratan
-
-- **Python**: 3.8 atau lebih baru
-- **Dependencies**: numpy, pandas, matplotlib, scikit-learn, jupyter
-
----
-
-## Setup dan Menjalankan
-
-**Install dependencies**:
 ```bash
 pip install numpy pandas matplotlib scikit-learn jupyter
 ```
 
-**Jalankan notebook**:
-```bash
-# Menggunakan Jupyter
-jupyter notebook AIPraktikum1/AI_Praktikum1.ipynb
+Jalankan notebook:
 
-# Atau gunakan VS Code
-code .
+```bash
+jupyter notebook AIPraktikum1/AI_Praktikum1.ipynb
 ```
 
----
-
-## Informasi Pengumpulan
-
-- Semua tugas dan praktikum tersimpan dalam folder masing-masing.
-- Setiap notebook sudah dilengkapi output eksekusi.
-- Siap untuk dievaluasi oleh dosen.
-
----
-
-## Referensi
-
-- [Scikit-learn Documentation](https://scikit-learn.org/)
-- [Pandas Documentation](https://pandas.pydata.org/)
-- [Jupyter Project](https://jupyter.org/)
-
----
+Atau buka project di VS Code dan jalankan notebook langsung dari editor.
 
 ## Catatan
 
-- Repository ini merupakan pengumpulan semua tugas dan praktikum mata kuliah Introduction to AI.
-- Untuk menjalankan notebook, pastikan semua dependencies sudah terinstal.
-
----
+- Folder `Tugas1`, `Tugas2`, dan `Tugas3` berisi dokumen tugas dalam format PDF.
+- Folder `AIPraktikum1` dan `AIPraktikum2` berisi file praktikum dalam format `.ipynb`.
 
 ## Lisensi
 
-This project is created for academic purposes. Feel free to use and modify for educational needs.
+Project ini dibuat untuk keperluan akademik. Bebas digunakan dan dimodifikasi untuk kebutuhan pembelajaran.
 
----
-
-**Terakhir diperbarui**: 25 Februari 2026
+**Terakhir diperbarui**: 4 Maret 2026
