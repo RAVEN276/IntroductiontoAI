@@ -36,6 +36,9 @@ IntroductiontoAI/
 ├── Tugas3/
 │   └── Tugas 3 - Analisis ML Pipeline - Mochammad Lintar Arya Dwiputra_2024081032.pdf
 └── Tugas4/
+    ├── Tugas 4.ipynb
+    └── Dataset/
+        └── imdb_top_1000.csv
 ```
 
 ## Daftar Konten
@@ -51,6 +54,7 @@ IntroductiontoAI/
 | Tugas 1 | [Tugas1/Pemahaman Dasar Artificial Intelligence.pdf](Tugas1/Pemahaman%20Dasar%20Artificial%20Intelligence.pdf) | Tugas pemahaman dasar AI. |
 | Tugas 2 | [Tugas2/Tugas 2 Essay - Mochammad Lintar Arya Dwiputra_2024081032.pdf](Tugas2/Tugas%202%20Essay%20-%20Mochammad%20Lintar%20Arya%20Dwiputra_2024081032.pdf) | Tugas esai AI. |
 | Tugas 3 | [Tugas3/Tugas 3 - Analisis ML Pipeline - Mochammad Lintar Arya Dwiputra_2024081032.pdf](Tugas3/Tugas%203%20-%20Analisis%20ML%20Pipeline%20-%20Mochammad%20Lintar%20Arya%20Dwiputra_2024081032.pdf) | Tugas analisis machine learning pipeline. |
+| Tugas 4 | [Tugas4/Tugas 4.ipynb](Tugas4/Tugas%204.ipynb) | Implementasi Feature Selection & Feature Engineering pada dataset IMDB Movie Recommendation (Univariate, Correlation Heatmap, Missing Value Handling, One-Hot Encoding). |
 
 ## Persyaratan (untuk Notebook)
 
@@ -76,8 +80,10 @@ Atau buka project di VS Code dan jalankan notebook langsung dari editor.
 ## Catatan
 
 - Folder `Tugas1`, `Tugas2`, dan `Tugas3` berisi dokumen tugas dalam format PDF.
+- Folder `Tugas4` berisi notebook implementasi Feature Selection & Feature Engineering dengan dataset IMDB Top 1000 Movies.
 - Folder `AIPraktikum1`, `AIPraktikum2`, dan `AIPraktikum4` berisi file praktikum dalam format `.ipynb`.
 - `AIPraktikum4` fokus pada teknik preprocessing data seperti Feature Selection, One Hot Encoding, dan Scaling.
+- `Tugas4` mengimplementasikan 2 metode Feature Selection (Univariate & Correlation Heatmap) dan 2 teknik Feature Engineering (Missing Value Handling & One-Hot Encoding) disertai interpretasi hasil dan sistem rekomendasi film.
 
 ## Lisensi
 
