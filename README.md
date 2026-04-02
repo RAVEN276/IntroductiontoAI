@@ -2,18 +2,18 @@
 
 ## Ringkasan
 
-Repository ini berisi kumpulan tugas dan praktikum untuk mata kuliah **Introduction to Artificial Intelligence**.
-Konten utama terdiri dari file tugas berbentuk PDF dan notebook praktikum berbentuk Jupyter Notebook.
+Repository ini berisi kumpulan tugas dan praktikum untuk mata kuliah Introduction to Artificial Intelligence.
+Konten terdiri dari dokumen tugas (PDF) dan notebook praktikum/tugas (Jupyter Notebook).
 
 ## Informasi Penulis
 
 | Item | Keterangan |
 |------|-----------|
-| **Nama** | Mochammad Lintar Arya Dwiputra |
-| **NIM** | 2024081032 |
-| **PRODI** | Sistem Informasi |
-| **Institusi** | Universitas Pembangunan Jaya |
-| **Tahun** | 2024/2025 |
+| Nama | Mochammad Lintar Arya Dwiputra |
+| NIM | 2024081032 |
+| PRODI | Sistem Informasi |
+| Institusi | Universitas Pembangunan Jaya |
+| Tahun | 2024/2025 |
 
 ## Struktur Direktori
 
@@ -35,10 +35,15 @@ IntroductiontoAI/
 │   └── Tugas 2 Essay - Mochammad Lintar Arya Dwiputra_2024081032.pdf
 ├── Tugas3/
 │   └── Tugas 3 - Analisis ML Pipeline - Mochammad Lintar Arya Dwiputra_2024081032.pdf
-└── Tugas4/
-    ├── Tugas 4.ipynb
-    └── Dataset/
-        └── imdb_top_1000.csv
+├── Tugas4/
+│   ├── Tugas 4.ipynb
+│   └── Dataset/
+│       └── imdb_top_1000.csv
+├── Tugas5/
+│   └── Tugas 5 - Scam Phone Detection - Mochammad Lintar Arya Dwiputra_2024081032.pdf
+└── Tugas6/
+    ├── Klasifikasi Minat Membeli Produk Secara Online.ipynb
+    └── Laporan Klasifikasi Minat Membeli Produk Menggunakan Naive Bayes - Mochammad Lintar Arya Dwiputra_2024081032.pdf
 ```
 
 ## Daftar Konten
@@ -47,46 +52,48 @@ IntroductiontoAI/
 |------|--------|------------|
 | Praktikum 1 | [AIPraktikum1/AI_Praktikum1.ipynb](AIPraktikum1/AI_Praktikum1.ipynb) | Notebook praktikum pertemuan pertama. |
 | Praktikum 2 | [AIPraktikum2/AI_Pertemuan2.ipynb](AIPraktikum2/AI_Pertemuan2.ipynb) | Notebook praktikum pertemuan kedua. |
-| Praktikum 4 - Feature Selection | [AIPraktikum4/Praktikum_Feature Selection.ipynb](AIPraktikum4/Praktikum_Feature%20Selection.ipynb) | Praktikum tentang Feature Selection. |
-| Praktikum 4 - One Hot Encoding | [AIPraktikum4/Praktikum_One Hot Encoding.ipynb](AIPraktikum4/Praktikum_One%20Hot%20Encoding.ipynb) | Praktikum tentang One Hot Encoding. |
-| Praktikum 4 - Scaling | [AIPraktikum4/Praktikum_Scaling.ipynb](AIPraktikum4/Praktikum_Scaling.ipynb) | Praktikum tentang Scaling data. |
+| Praktikum 4 - Feature Selection | [AIPraktikum4/Praktikum_Feature Selection.ipynb](AIPraktikum4/Praktikum_Feature%20Selection.ipynb) | Praktikum tentang feature selection. |
+| Praktikum 4 - One Hot Encoding | [AIPraktikum4/Praktikum_One Hot Encoding.ipynb](AIPraktikum4/Praktikum_One%20Hot%20Encoding.ipynb) | Praktikum tentang one-hot encoding. |
+| Praktikum 4 - Scaling | [AIPraktikum4/Praktikum_Scaling.ipynb](AIPraktikum4/Praktikum_Scaling.ipynb) | Praktikum tentang scaling data. |
 | Praktikum 4 - Studi Kasus | [AIPraktikum4/Praktikum_StudiKasus.ipynb](AIPraktikum4/Praktikum_StudiKasus.ipynb) | Praktikum studi kasus komprehensif. |
 | Tugas 1 | [Tugas1/Pemahaman Dasar Artificial Intelligence.pdf](Tugas1/Pemahaman%20Dasar%20Artificial%20Intelligence.pdf) | Tugas pemahaman dasar AI. |
 | Tugas 2 | [Tugas2/Tugas 2 Essay - Mochammad Lintar Arya Dwiputra_2024081032.pdf](Tugas2/Tugas%202%20Essay%20-%20Mochammad%20Lintar%20Arya%20Dwiputra_2024081032.pdf) | Tugas esai AI. |
 | Tugas 3 | [Tugas3/Tugas 3 - Analisis ML Pipeline - Mochammad Lintar Arya Dwiputra_2024081032.pdf](Tugas3/Tugas%203%20-%20Analisis%20ML%20Pipeline%20-%20Mochammad%20Lintar%20Arya%20Dwiputra_2024081032.pdf) | Tugas analisis machine learning pipeline. |
-| Tugas 4 | [Tugas4/Tugas 4.ipynb](Tugas4/Tugas%204.ipynb) | Implementasi Feature Selection & Feature Engineering pada dataset IMDB Movie Recommendation (Univariate, Correlation Heatmap, Missing Value Handling, One-Hot Encoding). |
+| Tugas 4 | [Tugas4/Tugas 4.ipynb](Tugas4/Tugas%204.ipynb) | Feature engineering dan feature selection untuk rekomendasi movie berbasis dataset IMDb Top 1000. |
+| Tugas 5 | [Tugas5/Tugas 5 - Scam Phone Detection - Mochammad Lintar Arya Dwiputra_2024081032.pdf](Tugas5/Tugas%205%20-%20Scam%20Phone%20Detection%20-%20Mochammad%20Lintar%20Arya%20Dwiputra_2024081032.pdf) | Laporan tugas deteksi scam phone. |
+| Tugas 6 - Notebook | [Tugas6/Klasifikasi Minat Membeli Produk Secara Online.ipynb](Tugas6/Klasifikasi%20Minat%20Membeli%20Produk%20Secara%20Online.ipynb) | Implementasi Naive Bayes untuk klasifikasi minat membeli produk. |
+| Tugas 6 - Laporan | [Tugas6/Laporan Klasifikasi Minat Membeli Produk Menggunakan Naive Bayes - Mochammad Lintar Arya Dwiputra_2024081032.pdf](Tugas6/Laporan%20Klasifikasi%20Minat%20Membeli%20Produk%20Menggunakan%20Naive%20Bayes%20-%20Mochammad%20Lintar%20Arya%20Dwiputra_2024081032.pdf) | Laporan tertulis dari implementasi Naive Bayes. |
 
-## Persyaratan (untuk Notebook)
+## Persyaratan Untuk Menjalankan Notebook
 
 - Python 3.8 atau lebih baru
-- Paket Python: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `jupyter`
+- Paket Python: numpy, pandas, matplotlib, seaborn, scikit-learn, jupyter
 
 ## Cara Menjalankan Notebook
 
 Instal dependency:
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn jupyter
+pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 ```
 
-Jalankan notebook:
+Contoh menjalankan salah satu notebook:
 
 ```bash
-jupyter notebook AIPraktikum1/AI_Praktikum1.ipynb
+jupyter notebook Tugas6/Klasifikasi\ Minat\ Membeli\ Produk\ Secara\ Online.ipynb
 ```
 
 Atau buka project di VS Code dan jalankan notebook langsung dari editor.
 
 ## Catatan
 
-- Folder `Tugas1`, `Tugas2`, dan `Tugas3` berisi dokumen tugas dalam format PDF.
-- Folder `Tugas4` berisi notebook implementasi Feature Selection & Feature Engineering dengan dataset IMDB Top 1000 Movies.
-- Folder `AIPraktikum1`, `AIPraktikum2`, dan `AIPraktikum4` berisi file praktikum dalam format `.ipynb`.
-- `AIPraktikum4` fokus pada teknik preprocessing data seperti Feature Selection, One Hot Encoding, dan Scaling.
-- `Tugas4` mengimplementasikan 2 metode Feature Selection (Univariate & Correlation Heatmap) dan 2 teknik Feature Engineering (Missing Value Handling & One-Hot Encoding) disertai interpretasi hasil dan sistem rekomendasi film.
+- Folder Tugas1, Tugas2, Tugas3, dan Tugas5 berisi dokumen tugas dalam format PDF.
+- Folder Tugas4 berisi notebook feature engineering dan feature selection dengan dataset IMDb Top 1000.
+- Folder Tugas6 berisi notebook klasifikasi Naive Bayes serta laporan PDF.
+- Folder AIPraktikum1, AIPraktikum2, dan AIPraktikum4 berisi file praktikum dalam format .ipynb.
 
 ## Lisensi
 
 Project ini dibuat untuk keperluan akademik. Bebas digunakan dan dimodifikasi untuk kebutuhan pembelajaran.
 
-**Terakhir diperbarui**: 9 Maret 2026
+Terakhir diperbarui: 2 April 2026
