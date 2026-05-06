@@ -1,11 +1,10 @@
-# Introduction to Artificial Intelligence - Pengumpulan Tugas & Praktikum
+# Introduction to Artificial Intelligence
 
-## Ringkasan
+Pengumpulan tugas dan praktikum mata kuliah Introduction to Artificial Intelligence.
 
-Repository ini berisi kumpulan tugas dan praktikum untuk mata kuliah Introduction to Artificial Intelligence.
-Konten terdiri dari dokumen tugas (PDF) dan notebook praktikum/tugas (Jupyter Notebook).
+> Repository ini berisi dokumen tugas dalam format PDF dan notebook praktikum/tugas dalam format Jupyter Notebook.
 
-## Informasi Penulis
+## Identitas Penulis
 
 | Item | Keterangan |
 |------|-----------|
@@ -17,7 +16,10 @@ Konten terdiri dari dokumen tugas (PDF) dan notebook praktikum/tugas (Jupyter No
 
 ## Struktur Direktori
 
-```
+<details>
+<summary>Lihat struktur folder repository</summary>
+
+```text
 IntroductiontoAI/
 ├── README.md
 ├── AIPraktikum1/
@@ -42,13 +44,23 @@ IntroductiontoAI/
 ├── Tugas5/
 │   └── Tugas 5 - Scam Phone Detection - Mochammad Lintar Arya Dwiputra_2024081032.pdf
 ├── Tugas6/
-    ├── Klasifikasi Minat Membeli Produk Secara Online.ipynb
-    └── Laporan Klasifikasi Minat Membeli Produk Menggunakan Naive Bayes - Mochammad Lintar Arya Dwiputra_2024081032.pdf
-└── Tugas7/
-    ├── Klasifikasi Survei Penggunaan Belajar Online (UAS).ipynb
-    ├── Naive Bayes Survei Penggunaan Belajar Online.ipynb
-    └── Survei Penggunaan Platform Belajar Online pada Mahasiswa (Jawaban) - Form Responses 1.csv
+│   ├── Klasifikasi Minat Membeli Produk Secara Online.ipynb
+│   └── Laporan Klasifikasi Minat Membeli Produk Menggunakan Naive Bayes - Mochammad Lintar Arya Dwiputra_2024081032.pdf
+├── Tugas7/
+│   ├── Mochammad Lintar Arya Dwiputra_2024081032 - Tugas 7.pdf
+│   ├── Naive Bayes Survei Penggunaan Belajar Online.ipynb
+│   └── Survei Penggunaan Platform Belajar Online pada Mahasiswa (Jawaban) - Form Responses 1.csv
+├── Tugas9/
+│   ├── Mochammad Lintar Arya Dwiputra_2024081032 - Tugas 9_IntroAI.pdf
+│   ├── Tugas9.ipynb
+│   └── Survei Penggunaan Platform Belajar Online pada Mahasiswa (Jawaban) - Form Responses 1.csv
+└── Tugas10/
+    ├── Klasifikasi_Mahasiswa_Perceptron_v2.ipynb
+    ├── Tugas10.ipynb
+    └── perceptron_result.png
 ```
+
+</details>
 
 ## Daftar Konten
 
@@ -67,16 +79,21 @@ IntroductiontoAI/
 | Tugas 5 | [Tugas5/Tugas 5 - Scam Phone Detection - Mochammad Lintar Arya Dwiputra_2024081032.pdf](Tugas5/Tugas%205%20-%20Scam%20Phone%20Detection%20-%20Mochammad%20Lintar%20Arya%20Dwiputra_2024081032.pdf) | Laporan tugas deteksi scam phone. |
 | Tugas 6 - Notebook | [Tugas6/Klasifikasi Minat Membeli Produk Secara Online.ipynb](Tugas6/Klasifikasi%20Minat%20Membeli%20Produk%20Secara%20Online.ipynb) | Implementasi Naive Bayes untuk klasifikasi minat membeli produk. |
 | Tugas 6 - Laporan | [Tugas6/Laporan Klasifikasi Minat Membeli Produk Menggunakan Naive Bayes - Mochammad Lintar Arya Dwiputra_2024081032.pdf](Tugas6/Laporan%20Klasifikasi%20Minat%20Membeli%20Produk%20Menggunakan%20Naive%20Bayes%20-%20Mochammad%20Lintar%20Arya%20Dwiputra_2024081032.pdf) | Laporan tertulis dari implementasi Naive Bayes. |
-| Tugas 7 - Notebook UAS | [Tugas7/Klasifikasi Survei Penggunaan Belajar Online (UAS).ipynb](Tugas7/Klasifikasi%20Survei%20Penggunaan%20Belajar%20Online%20(UAS).ipynb) | Notebook klasifikasi data survei penggunaan belajar online. |
+| Tugas 7 - Laporan | [Tugas7/Mochammad Lintar Arya Dwiputra_2024081032 - Tugas 7.pdf](Tugas7/Mochammad%20Lintar%20Arya%20Dwiputra_2024081032%20-%20Tugas%207.pdf) | Laporan tugas 7. |
 | Tugas 7 - Notebook Naive Bayes | [Tugas7/Naive Bayes Survei Penggunaan Belajar Online.ipynb](Tugas7/Naive%20Bayes%20Survei%20Penggunaan%20Belajar%20Online.ipynb) | Notebook implementasi Naive Bayes pada data survei platform belajar online. |
 | Tugas 7 - Dataset | [Tugas7/Survei Penggunaan Platform Belajar Online pada Mahasiswa (Jawaban) - Form Responses 1.csv](Tugas7/Survei%20Penggunaan%20Platform%20Belajar%20Online%20pada%20Mahasiswa%20(Jawaban)%20-%20Form%20Responses%201.csv) | Dataset survei sebagai sumber data klasifikasi. |
+| Tugas 9 - Laporan | [Tugas9/Mochammad Lintar Arya Dwiputra_2024081032 - Tugas 9_IntroAI.pdf](Tugas9/Mochammad%20Lintar%20Arya%20Dwiputra_2024081032%20-%20Tugas%209_IntroAI.pdf) | Laporan tugas 9. |
+| Tugas 9 - Notebook | [Tugas9/Tugas9.ipynb](Tugas9/Tugas9.ipynb) | Notebook tugas 9 dengan dataset survei belajar online. |
+| Tugas 9 - Dataset | [Tugas9/Survei Penggunaan Platform Belajar Online pada Mahasiswa (Jawaban) - Form Responses 1.csv](Tugas9/Survei%20Penggunaan%20Platform%20Belajar%20Online%20pada%20Mahasiswa%20(Jawaban)%20-%20Form%20Responses%201.csv) | Dataset survei sebagai sumber data klasifikasi. |
+| Tugas 10 - Notebook Perceptron v2 | [Tugas10/Klasifikasi_Mahasiswa_Perceptron_v2.ipynb](Tugas10/Klasifikasi_Mahasiswa_Perceptron_v2.ipynb) | Implementasi klasifikasi mahasiswa dengan perceptron. |
+| Tugas 10 - Notebook | [Tugas10/Tugas10.ipynb](Tugas10/Tugas10.ipynb) | Notebook tugas 10. |
 
-## Persyaratan Untuk Menjalankan Notebook
+## Prasyarat
 
 - Python 3.8 atau lebih baru
 - Paket Python: numpy, pandas, matplotlib, seaborn, scikit-learn, jupyter
 
-## Cara Menjalankan Notebook
+## Menjalankan Notebook
 
 Instal dependency:
 
@@ -92,16 +109,18 @@ jupyter notebook Tugas6/Klasifikasi\ Minat\ Membeli\ Produk\ Secara\ Online.ipyn
 
 Atau buka project di VS Code dan jalankan notebook langsung dari editor.
 
-## Catatan
+## Catatan Struktur
 
 - Folder Tugas1, Tugas2, Tugas3, dan Tugas5 berisi dokumen tugas dalam format PDF.
 - Folder Tugas4 berisi notebook feature engineering dan feature selection dengan dataset IMDb Top 1000.
 - Folder Tugas6 berisi notebook klasifikasi Naive Bayes serta laporan PDF.
-- Folder Tugas7 berisi dua notebook klasifikasi (termasuk Naive Bayes) dan dataset survei format CSV.
+- Folder Tugas7 berisi laporan PDF, notebook klasifikasi Naive Bayes, dan dataset survei format CSV.
+- Folder Tugas9 berisi laporan PDF, notebook klasifikasi, dan dataset survei format CSV.
+- Folder Tugas10 berisi notebook klasifikasi perceptron dan hasil visualisasi.
 - Folder AIPraktikum1, AIPraktikum2, dan AIPraktikum4 berisi file praktikum dalam format .ipynb.
 
 ## Lisensi
 
 Project ini dibuat untuk keperluan akademik. Bebas digunakan dan dimodifikasi untuk kebutuhan pembelajaran.
 
-Terakhir diperbarui: 10 April 2026
+Terakhir diperbarui: 6 Mei 2026
