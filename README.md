@@ -55,8 +55,9 @@ IntroductiontoAI/
 │   ├── Tugas9.ipynb
 │   └── Survei Penggunaan Platform Belajar Online pada Mahasiswa (Jawaban) - Form Responses 1.csv
 └── Tugas10/
-    ├── Klasifikasi_Mahasiswa_Perceptron_v2.ipynb
+    ├── Klasifikasi Mahasiswa Perceptron.ipynb
     ├── Tugas10.ipynb
+    ├── Tugas10.pdf
     └── perceptron_result.png
 ```
 
@@ -85,8 +86,9 @@ IntroductiontoAI/
 | Tugas 9 - Laporan | [Tugas9/Mochammad Lintar Arya Dwiputra_2024081032 - Tugas 9_IntroAI.pdf](Tugas9/Mochammad%20Lintar%20Arya%20Dwiputra_2024081032%20-%20Tugas%209_IntroAI.pdf) | Laporan tugas 9. |
 | Tugas 9 - Notebook | [Tugas9/Tugas9.ipynb](Tugas9/Tugas9.ipynb) | Notebook tugas 9 dengan dataset survei belajar online. |
 | Tugas 9 - Dataset | [Tugas9/Survei Penggunaan Platform Belajar Online pada Mahasiswa (Jawaban) - Form Responses 1.csv](Tugas9/Survei%20Penggunaan%20Platform%20Belajar%20Online%20pada%20Mahasiswa%20(Jawaban)%20-%20Form%20Responses%201.csv) | Dataset survei sebagai sumber data klasifikasi. |
-| Tugas 10 - Notebook Perceptron v2 | [Tugas10/Klasifikasi_Mahasiswa_Perceptron_v2.ipynb](Tugas10/Klasifikasi_Mahasiswa_Perceptron_v2.ipynb) | Implementasi klasifikasi mahasiswa dengan perceptron. |
+| Tugas 10 - Notebook Perceptron | [Tugas10/Klasifikasi Mahasiswa Perceptron.ipynb](Tugas10/Klasifikasi%20Mahasiswa%20Perceptron.ipynb) | Implementasi klasifikasi mahasiswa dengan perceptron. |
 | Tugas 10 - Notebook | [Tugas10/Tugas10.ipynb](Tugas10/Tugas10.ipynb) | Notebook tugas 10. |
+| Tugas 10 - Laporan | [Tugas10/Tugas10.pdf](Tugas10/Tugas10.pdf) | Laporan tugas 10. |
 
 ## Prasyarat
 
