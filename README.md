@@ -54,11 +54,16 @@ IntroductiontoAI/
 │   ├── Mochammad Lintar Arya Dwiputra_2024081032 - Tugas 9_IntroAI.pdf
 │   ├── Tugas9.ipynb
 │   └── Survei Penggunaan Platform Belajar Online pada Mahasiswa (Jawaban) - Form Responses 1.csv
-└── Tugas10/
-    ├── Klasifikasi Mahasiswa Perceptron.ipynb
-    ├── Tugas10.ipynb
-    ├── Tugas10.pdf
-    └── perceptron_result.png
+├── Tugas10/
+│   ├── Klasifikasi Mahasiswa Perceptron.ipynb
+│   ├── Tugas10.ipynb
+│   ├── Tugas10.pdf
+│   └── perceptron_result.png
+└── Tugas11/
+    ├── Quiz_Logistic_Regression.ipynb
+    ├── 2024081032_Quiz 11.pdf
+    ├── Survei Beban Tugas & Tingkat Stres Mahasiswa.csv
+    └── output/
 ```
 
 </details>
@@ -89,6 +94,9 @@ IntroductiontoAI/
 | Tugas 10 - Notebook Perceptron | [Tugas10/Klasifikasi Mahasiswa Perceptron.ipynb](Tugas10/Klasifikasi%20Mahasiswa%20Perceptron.ipynb) | Implementasi klasifikasi mahasiswa dengan perceptron. |
 | Tugas 10 - Notebook | [Tugas10/Tugas10.ipynb](Tugas10/Tugas10.ipynb) | Notebook tugas 10. |
 | Tugas 10 - Laporan | [Tugas10/Tugas10.pdf](Tugas10/Tugas10.pdf) | Laporan tugas 10. |
+| Tugas 11 - Notebook Logistic Regression | [Tugas11/Quiz_Logistic_Regression.ipynb](Tugas11/Quiz_Logistic_Regression.ipynb) | Quiz praktikum logistic regression untuk prediksi stress mahasiswa. |
+| Tugas 11 - Laporan | [Tugas11/2024081032_Quiz 11.pdf](Tugas11/2024081032_Quiz%2011.pdf) | Laporan quiz tugas 11. |
+| Tugas 11 - Dataset | [Tugas11/Survei Beban Tugas & Tingkat Stres Mahasiswa.csv](Tugas11/Survei%20Beban%20Tugas%20&%20Tingkat%20Stres%20Mahasiswa.csv) | Dataset survei beban tugas dan tingkat stress. |
 
 ## Prasyarat
 
@@ -119,10 +127,11 @@ Atau buka project di VS Code dan jalankan notebook langsung dari editor.
 - Folder Tugas7 berisi laporan PDF, notebook klasifikasi Naive Bayes, dan dataset survei format CSV.
 - Folder Tugas9 berisi laporan PDF, notebook klasifikasi, dan dataset survei format CSV.
 - Folder Tugas10 berisi notebook klasifikasi perceptron dan hasil visualisasi.
+- Folder Tugas11 berisi notebook logistic regression, laporan quiz, dataset survei, dan folder output hasil analisis.
 - Folder AIPraktikum1, AIPraktikum2, dan AIPraktikum4 berisi file praktikum dalam format .ipynb.
 
 ## Lisensi
 
 Project ini dibuat untuk keperluan akademik. Bebas digunakan dan dimodifikasi untuk kebutuhan pembelajaran.
 
-Terakhir diperbarui: 6 Mei 2026
+Terakhir diperbarui: 13 Mei 2026
