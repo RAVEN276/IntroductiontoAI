@@ -59,11 +59,17 @@ IntroductiontoAI/
 │   ├── Tugas10.ipynb
 │   ├── Tugas10.pdf
 │   └── perceptron_result.png
-└── Tugas11/
-    ├── Quiz_Logistic_Regression.ipynb
-    ├── 2024081032_Quiz 11.pdf
-    ├── Survei Beban Tugas & Tingkat Stres Mahasiswa.csv
-    └── output/
+├── Tugas11/
+│   ├── Quiz_Logistic_Regression.ipynb
+│   ├── 2024081032_Quiz 11.pdf
+│   ├── Survei Beban Tugas & Tingkat Stres Mahasiswa.csv
+│   └── output/
+└── Tugas12/
+    ├── Klasifikasi_Logistic_Regression.ipynb
+    ├── 2024081032_Laporan Tugas W12.pdf
+    ├── confusion_matrix.png
+    ├── probabilitas_prediksi.png
+    └── sigmoid_curve.png
 ```
 
 </details>
@@ -97,6 +103,9 @@ IntroductiontoAI/
 | Tugas 11 - Notebook Logistic Regression | [Tugas11/Quiz_Logistic_Regression.ipynb](Tugas11/Quiz_Logistic_Regression.ipynb) | Quiz praktikum logistic regression untuk prediksi stress mahasiswa. |
 | Tugas 11 - Laporan | [Tugas11/2024081032_Quiz 11.pdf](Tugas11/2024081032_Quiz%2011.pdf) | Laporan quiz tugas 11. |
 | Tugas 11 - Dataset | [Tugas11/Survei Beban Tugas & Tingkat Stres Mahasiswa.csv](Tugas11/Survei%20Beban%20Tugas%20&%20Tingkat%20Stres%20Mahasiswa.csv) | Dataset survei beban tugas dan tingkat stress. |
+| Tugas 12 - Notebook Logistic Regression | [Tugas12/Klasifikasi_Logistic_Regression.ipynb](Tugas12/Klasifikasi_Logistic_Regression.ipynb) | Implementasi logistic regression dan analisis hasil (minggu 12). |
+| Tugas 12 - Laporan | [Tugas12/2024081032_Laporan Tugas W12.pdf](Tugas12/2024081032_Laporan%20Tugas%20W12.pdf) | Laporan Tugas 12. |
+| Tugas 12 - Output | [Tugas12/confusion_matrix.png](Tugas12/confusion_matrix.png) (contoh), [Tugas12/probabilitas_prediksi.png](Tugas12/probabilitas_prediksi.png) | Visualisasi hasil (confusion matrix, probabilitas prediksi). |
 
 ## Prasyarat
 
@@ -128,10 +137,11 @@ Atau buka project di VS Code dan jalankan notebook langsung dari editor.
 - Folder Tugas9 berisi laporan PDF, notebook klasifikasi, dan dataset survei format CSV.
 - Folder Tugas10 berisi notebook klasifikasi perceptron dan hasil visualisasi.
 - Folder Tugas11 berisi notebook logistic regression, laporan quiz, dataset survei, dan folder output hasil analisis.
+- Folder Tugas12 berisi notebook logistic regression untuk minggu 12, laporan PDF, dan visualisasi hasil (confusion matrix, probabilitas prediksi, sigmoid curve).
 - Folder AIPraktikum1, AIPraktikum2, dan AIPraktikum4 berisi file praktikum dalam format .ipynb.
 
 ## Lisensi
 
 Project ini dibuat untuk keperluan akademik. Bebas digunakan dan dimodifikasi untuk kebutuhan pembelajaran.
 
-Terakhir diperbarui: 13 Mei 2026
+Terakhir diperbarui: 19 Mei 2026
