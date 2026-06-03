@@ -70,6 +70,10 @@ IntroductiontoAI/
     ├── confusion_matrix.png
     ├── probabilitas_prediksi.png
     └── sigmoid_curve.png
+├── Tugas13/
+    ├── Tugas 13.ipynb
+    ├── Tugas 13-Mochammad Lintar Arya Dwiputr_2024081032.pdf
+    └── output/
 ```
 
 </details>
@@ -106,6 +110,8 @@ IntroductiontoAI/
 | Tugas 12 - Notebook Logistic Regression | [Tugas12/Klasifikasi_Logistic_Regression.ipynb](Tugas12/Klasifikasi_Logistic_Regression.ipynb) | Implementasi logistic regression dan analisis hasil (minggu 12). |
 | Tugas 12 - Laporan | [Tugas12/2024081032_Laporan Tugas W12.pdf](Tugas12/2024081032_Laporan%20Tugas%20W12.pdf) | Laporan Tugas 12. |
 | Tugas 12 - Output | [Tugas12/confusion_matrix.png](Tugas12/confusion_matrix.png) (contoh), [Tugas12/probabilitas_prediksi.png](Tugas12/probabilitas_prediksi.png) | Visualisasi hasil (confusion matrix, probabilitas prediksi). |
+| Tugas 13 - Notebook | [Tugas13/Tugas 13.ipynb](Tugas13/Tugas%2013.ipynb) | Notebook tugas 13. |
+| Tugas 13 - Laporan | [Tugas13/Tugas 13-Mochammad Lintar Arya Dwiputr_2024081032.pdf](Tugas13/Tugas%2013-Mochammad%20Lintar%20Arya%20Dwiputr_2024081032.pdf) | Laporan tugas 13. |
 
 ## Prasyarat
 
@@ -138,10 +144,11 @@ Atau buka project di VS Code dan jalankan notebook langsung dari editor.
 - Folder Tugas10 berisi notebook klasifikasi perceptron dan hasil visualisasi.
 - Folder Tugas11 berisi notebook logistic regression, laporan quiz, dataset survei, dan folder output hasil analisis.
 - Folder Tugas12 berisi notebook logistic regression untuk minggu 12, laporan PDF, dan visualisasi hasil (confusion matrix, probabilitas prediksi, sigmoid curve).
+- Folder Tugas13 berisi notebook tugas 13, laporan PDF, dan folder `output` berisi visualisasi/hasil.
 - Folder AIPraktikum1, AIPraktikum2, dan AIPraktikum4 berisi file praktikum dalam format .ipynb.
 
 ## Lisensi
 
 Project ini dibuat untuk keperluan akademik. Bebas digunakan dan dimodifikasi untuk kebutuhan pembelajaran.
 
-Terakhir diperbarui: 19 Mei 2026
+Terakhir diperbarui: 3 Juni 2026
