@@ -9,7 +9,7 @@ Pengumpulan tugas dan praktikum mata kuliah Introduction to Artificial Intellige
 | Item | Keterangan |
 |------|-----------|
 | Nama | Mochammad Lintar Arya Dwiputra |
-| NIM | 2024081032 |
+├── Tugas12/
 | PRODI | Sistem Informasi |
 | Institusi | Universitas Pembangunan Jaya |
 | Tahun | 2024/2025 |
@@ -19,11 +19,10 @@ Pengumpulan tugas dan praktikum mata kuliah Introduction to Artificial Intellige
 <details>
 <summary>Lihat struktur folder repository</summary>
 
-```text
+└── UAS/
 IntroductiontoAI/
 ├── README.md
 ├── AIPraktikum1/
-│   └── AI_Praktikum1.ipynb
 ├── AIPraktikum2/
 │   └── AI_Pertemuan2.ipynb
 ├── AIPraktikum4/
@@ -33,7 +32,6 @@ IntroductiontoAI/
 │   └── Praktikum_StudiKasus.ipynb
 ├── Tugas1/
 │   └── Pemahaman Dasar Artificial Intelligence.pdf
-├── Tugas2/
 │   └── Tugas 2 Essay - Mochammad Lintar Arya Dwiputra_2024081032.pdf
 ├── Tugas3/
 │   └── Tugas 3 - Analisis ML Pipeline - Mochammad Lintar Arya Dwiputra_2024081032.pdf
@@ -74,6 +72,12 @@ IntroductiontoAI/
     ├── Tugas 13.ipynb
     ├── Tugas 13-Mochammad Lintar Arya Dwiputr_2024081032.pdf
     └── output/
+└── UAS/
+    ├── Klasifikasi-Survei-Penggunaan-Belajar-Online.ipynb
+    ├── Survei Penggunaan Platform Belajar Online pada Mahasiswa.csv
+    ├── distribusi_fitur.png
+    ├── feature_importance.png
+    └── perbandingan_model.png
 ```
 
 </details>
@@ -82,7 +86,6 @@ IntroductiontoAI/
 
 | Jenis | Lokasi | Keterangan |
 |------|--------|------------|
-| Praktikum 1 | [AIPraktikum1/AI_Praktikum1.ipynb](AIPraktikum1/AI_Praktikum1.ipynb) | Notebook praktikum pertemuan pertama. |
 | Praktikum 2 | [AIPraktikum2/AI_Pertemuan2.ipynb](AIPraktikum2/AI_Pertemuan2.ipynb) | Notebook praktikum pertemuan kedua. |
 | Praktikum 4 - Feature Selection | [AIPraktikum4/Praktikum_Feature Selection.ipynb](AIPraktikum4/Praktikum_Feature%20Selection.ipynb) | Praktikum tentang feature selection. |
 | Praktikum 4 - One Hot Encoding | [AIPraktikum4/Praktikum_One Hot Encoding.ipynb](AIPraktikum4/Praktikum_One%20Hot%20Encoding.ipynb) | Praktikum tentang one-hot encoding. |
@@ -112,6 +115,9 @@ IntroductiontoAI/
 | Tugas 12 - Output | [Tugas12/confusion_matrix.png](Tugas12/confusion_matrix.png) (contoh), [Tugas12/probabilitas_prediksi.png](Tugas12/probabilitas_prediksi.png) | Visualisasi hasil (confusion matrix, probabilitas prediksi). |
 | Tugas 13 - Notebook | [Tugas13/Tugas 13.ipynb](Tugas13/Tugas%2013.ipynb) | Notebook tugas 13. |
 | Tugas 13 - Laporan | [Tugas13/Tugas 13-Mochammad Lintar Arya Dwiputr_2024081032.pdf](Tugas13/Tugas%2013-Mochammad%20Lintar%20Arya%20Dwiputr_2024081032.pdf) | Laporan tugas 13. |
+| UAS - Notebook | [UAS/Klasifikasi-Survei-Penggunaan-Belajar-Online.ipynb](UAS/Klasifikasi-Survei-Penggunaan-Belajar-Online.ipynb) | Notebook UAS untuk klasifikasi survei belajar online. |
+| UAS - Dataset | [UAS/Survei Penggunaan Platform Belajar Online pada Mahasiswa.csv](UAS/Survei%20Penggunaan%20Platform%20Belajar%20Online%20pada%20Mahasiswa.csv) | Dataset survei yang digunakan pada UAS. |
+| UAS - Output | [UAS/distribusi_fitur.png](UAS/distribusi_fitur.png), [UAS/feature_importance.png](UAS/feature_importance.png), [UAS/perbandingan_model.png](UAS/perbandingan_model.png) | Visualisasi hasil analisis dan perbandingan model UAS. |
 
 ## Prasyarat
 
@@ -145,6 +151,7 @@ Atau buka project di VS Code dan jalankan notebook langsung dari editor.
 - Folder Tugas11 berisi notebook logistic regression, laporan quiz, dataset survei, dan folder output hasil analisis.
 - Folder Tugas12 berisi notebook logistic regression untuk minggu 12, laporan PDF, dan visualisasi hasil (confusion matrix, probabilitas prediksi, sigmoid curve).
 - Folder Tugas13 berisi notebook tugas 13, laporan PDF, dan folder `output` berisi visualisasi/hasil.
+- Folder UAS berisi notebook klasifikasi, dataset survei, dan visualisasi hasil analisis.
 - Folder AIPraktikum1, AIPraktikum2, dan AIPraktikum4 berisi file praktikum dalam format .ipynb.
 
 ## Lisensi
