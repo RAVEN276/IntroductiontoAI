@@ -71,9 +71,19 @@ IntroductiontoAI/
     ├── probabilitas_prediksi.png
     └── sigmoid_curve.png
 ├── Tugas13/
-    ├── Tugas 13.ipynb
-    ├── Tugas 13-Mochammad Lintar Arya Dwiputr_2024081032.pdf
-    └── output/
+│   ├── Tugas 13.ipynb
+│   ├── Tugas 13-Mochammad Lintar Arya Dwiputr_2024081032.pdf
+│   └── output/
+├── Tugas14/
+│   ├── Analisis Faktor Bayesian Network.ipynb
+│   ├── Analisis Faktor Bayesian Network_2024081032.pdf
+│   └── Peta Pengaruh Platform Belajar Online Mahasiswa.png
+└── UAS/
+    ├── Klasifikasi-Survei-Penggunaan-Belajar-Online.ipynb
+    ├── Survei Penggunaan Platform Belajar Online pada Mahasiswa.csv
+    ├── distribusi_fitur.png
+    ├── feature_importance.png
+    └── perbandingan_model.png
 ```
 
 </details>
@@ -112,6 +122,10 @@ IntroductiontoAI/
 | Tugas 12 - Output | [Tugas12/confusion_matrix.png](Tugas12/confusion_matrix.png) (contoh), [Tugas12/probabilitas_prediksi.png](Tugas12/probabilitas_prediksi.png) | Visualisasi hasil (confusion matrix, probabilitas prediksi). |
 | Tugas 13 - Notebook | [Tugas13/Tugas 13.ipynb](Tugas13/Tugas%2013.ipynb) | Notebook tugas 13. |
 | Tugas 13 - Laporan | [Tugas13/Tugas 13-Mochammad Lintar Arya Dwiputr_2024081032.pdf](Tugas13/Tugas%2013-Mochammad%20Lintar%20Arya%20Dwiputr_2024081032.pdf) | Laporan tugas 13. |
+| Tugas 14 - Notebook | [Tugas14/Analisis Faktor Bayesian Network.ipynb](Tugas14/Analisis%20Faktor%20Bayesian%20Network.ipynb) | Analisis Faktor menggunakan Bayesian Network. |
+| Tugas 14 - Laporan | [Tugas14/Analisis Faktor Bayesian Network_2024081032.pdf](Tugas14/Analisis%20Faktor%20Bayesian%20Network_2024081032.pdf) | Laporan tugas 14. |
+| UAS - Notebook | [UAS/Klasifikasi-Survei-Penggunaan-Belajar-Online.ipynb](UAS/Klasifikasi-Survei-Penggunaan-Belajar-Online.ipynb) | Notebook UAS Klasifikasi survei platform belajar online. |
+| UAS - Dataset | [UAS/Survei Penggunaan Platform Belajar Online pada Mahasiswa.csv](UAS/Survei%20Penggunaan%20Platform%20Belajar%20Online%20pada%20Mahasiswa.csv) | Dataset survei yang digunakan untuk UAS. |
 
 ## Prasyarat
 
@@ -145,10 +159,12 @@ Atau buka project di VS Code dan jalankan notebook langsung dari editor.
 - Folder Tugas11 berisi notebook logistic regression, laporan quiz, dataset survei, dan folder output hasil analisis.
 - Folder Tugas12 berisi notebook logistic regression untuk minggu 12, laporan PDF, dan visualisasi hasil (confusion matrix, probabilitas prediksi, sigmoid curve).
 - Folder Tugas13 berisi notebook tugas 13, laporan PDF, dan folder `output` berisi visualisasi/hasil.
+- Folder Tugas14 berisi notebook analisis faktor Bayesian Network, laporan PDF, beserta hasil visualisasinya.
+- Folder UAS berisi notebook klasifikasi survei penggunaan belajar online, dataset, serta file visualisasi hasil analisis/klasifikasi.
 - Folder AIPraktikum1, AIPraktikum2, dan AIPraktikum4 berisi file praktikum dalam format .ipynb.
 
 ## Lisensi
 
 Project ini dibuat untuk keperluan akademik. Bebas digunakan dan dimodifikasi untuk kebutuhan pembelajaran.
 
-Terakhir diperbarui: 3 Juni 2026
+Terakhir diperbarui: 22 Juni 2026
